@@ -1,3 +1,6 @@
 GROCERY
 -eggs
 -milk
+
+-ice
+-water
